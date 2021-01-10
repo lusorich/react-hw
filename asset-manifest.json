@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-hw/static/css/main.7b69aa7d.chunk.css",
+    "main.js": "/react-hw/static/js/main.51b44e22.chunk.js",
+    "main.js.map": "/react-hw/static/js/main.51b44e22.chunk.js.map",
+    "runtime-main.js": "/react-hw/static/js/runtime-main.4873f0e9.js",
+    "runtime-main.js.map": "/react-hw/static/js/runtime-main.4873f0e9.js.map",
+    "static/js/2.d76caab6.chunk.js": "/react-hw/static/js/2.d76caab6.chunk.js",
+    "static/js/2.d76caab6.chunk.js.map": "/react-hw/static/js/2.d76caab6.chunk.js.map",
+    "index.html": "/react-hw/index.html",
+    "precache-manifest.b8aee192ef508595572da7fd64464607.js": "/react-hw/precache-manifest.b8aee192ef508595572da7fd64464607.js",
+    "service-worker.js": "/react-hw/service-worker.js",
+    "static/css/main.7b69aa7d.chunk.css.map": "/react-hw/static/css/main.7b69aa7d.chunk.css.map",
+    "static/js/2.d76caab6.chunk.js.LICENSE.txt": "/react-hw/static/js/2.d76caab6.chunk.js.LICENSE.txt",
+    "static/media/notFound.module.css": "/react-hw/static/media/404.9efa5f0d.jpg",
+    "static/media/navBar.module.css": "/react-hw/static/media/ninja.04d12e8d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4873f0e9.js",
+    "static/js/2.d76caab6.chunk.js",
+    "static/css/main.7b69aa7d.chunk.css",
+    "static/js/main.51b44e22.chunk.js"
+  ]
+}
