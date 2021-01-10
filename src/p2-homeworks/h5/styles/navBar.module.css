@@ -1,0 +1,38 @@
+.item {
+  font-size: 22px;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.wrapper {
+  /* Переход */
+  margin-left: -400px;
+  position: relative;
+  transition: margin-left 0.05s ease-out 0.05s;
+  margin-top: 10px;
+  margin-bottom: 25px;
+}
+
+.wrapper:hover {
+    margin-left: 0;
+}
+
+.wrapper::after {
+    content: "";
+    background: url("../images/ninja.svg");
+    width: 49px;
+    height: 49px;
+    position: absolute;
+    color: black;
+    margin-right: 85vw;
+    right: 0;
+    transition: visibility 0.1s;
+}
+
+.wrapper:hover::after {
+    visibility: hidden;
+}
+
+.active {
+    text-decoration: underline;
+}
